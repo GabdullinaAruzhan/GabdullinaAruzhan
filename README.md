@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Аружан 👋
 
-<!--
-**GabdullinaAruzhan/GabdullinaAruzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Соединяю два мира:1 в регуляторной документации для медицинских изделий
+(рег.досье, классификация рисков, нормативный анализ для НЦЭЛС) — и аналитику данных,
+в которую перехожу осознанно.
 
-Here are some ideas to get you started:
+Регуляторная работа научила меня держать в голове сложные многодокументные структуры
+и ловить несоответствия между источниками раньше, чем они станут проблемой —
+тот же навык, что нужен в анализе данных: увидеть аномалию в данных раньше,
+чем она попадёт в отчёт.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+SQL (window functions, CTE, multi-table joins) · Python (Pandas, Jupyter) ·
+Power BI (DAX) · Excel / Google Sheets · Tableau
+
+## Проекты
+- 🔍 [analytics-sql](https://github.com/GabdullinaAruzhan/analytics-sql) —
+  когортный анализ и сегментация клиентов на SQL
+- 📊 [Sales-Analysis](https://github.com/GabdullinaAruzhan/Sales-Analysis) —
+  дашборд Power BI: продажи и прибыльность 2018–2021
+- 🧪 [analytics-test-task](https://github.com/GabdullinaAruzhan/analytics-test-task) —
+  продуктовые метрики и A/B-тест на SQL
+
+## Сейчас работаю над
+[название flagship-проекта — см. Этап 4]

@@ -9,8 +9,11 @@ SQL (window functions, CTE, multi-table joins) · Python (Pandas, Jupyter) · Po
 
 **Проекты**
 🇰🇿 ndda-medical-devices-registry (https://github.com/GabdullinaAruzhan/ndda-medical-devices-registry) — флагманский проект: сбор 14 105 записей реестра медизделий Казахстана через недокументированный API, нормализованная база MySQL, SQL-аналитика, дашборд Power BI
+
 🔍 analytics-sql — когортный анализ и сегментация клиентов на SQL
+
 📊 Sales-Analysis — дашборд Power BI: продажи и прибыльность 2018–2021
+
 🧪 analytics-test-task — продуктовые метрики и A/B-тест на SQL
 
 **Сейчас изучаю**
